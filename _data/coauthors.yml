@@ -1,0 +1,5 @@
+# Map coauthor names to their websites; they will be linked on the publications page.
+# Example:
+# "Togo":
+#   - firstname: ["Ren", "R."]
+#     url: https://example.com

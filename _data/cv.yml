@@ -1,0 +1,228 @@
+cv:
+  name: Keigo Sakurai
+  label: Assistant Professor
+  email: sakurai@lmd.ist.hokudai.ac.jp
+  location: Sapporo, Japan
+  image: ""
+  summary: Assistant Professor at the Graduate School of Information Science and Technology, Hokkaido University. Research on data mining centered on recommender systems across music, finance, and fashion domains.
+
+  social_networks:
+    - network: GitHub
+      username: keigo-sakurai
+    - network: LinkedIn
+      username: keigo-sakurai-182761214
+    - network: X
+      username: nukemusso
+
+  sections:
+    Education:
+      - institution: Hokkaido University
+        location: Sapporo, Japan
+        area: Information Science (Laboratory of Media Dynamics)
+        studyType: Ph.D. (shortened completion)
+        start_date: 2023-04
+        end_date: 2025-09
+        highlights:
+          - JSPS Research Fellow (DC1)
+          - "Dean's Award, Graduate School of Information Science and Technology (Sep. 2025)"
+
+      - institution: Hokkaido University
+        location: Sapporo, Japan
+        area: Information Science (Laboratory of Media Dynamics)
+        studyType: M.S.
+        start_date: 2021-04
+        end_date: 2023-03
+        highlights:
+          - "Dean's Award, Graduate School of Information Science and Technology (Mar. 2023)"
+
+      - institution: Hokkaido University
+        location: Sapporo, Japan
+        area: Faculty of Engineering
+        studyType: B.E.
+        start_date: 2017-04
+        end_date: 2021-03
+
+    Experience:
+      - company: Hokkaido University
+        position: Assistant Professor
+        location: Sapporo, Japan
+        start_date: 2026-04
+        end_date: present
+        summary: Graduate School of Information Science and Technology, Laboratory of Media Dynamics.
+
+      - company: Hokkaido University
+        position: Specially Appointed Assistant Professor
+        location: Sapporo, Japan
+        start_date: 2025-10
+        end_date: 2026-03
+        summary: Institute for Integrated Innovation, Data-driven Research Emergent Division (D-RED).
+
+      - company: National Institute of Advanced Industrial Science and Technology (AIST)
+        position: Technical Trainee
+        location: Japan
+        start_date: 2025-02
+        end_date: 2025-03
+
+      - company: Nomura Asset Management, Advanced Technology Research Division
+        position: Research Intern
+        location: Tokyo, Japan
+        start_date: 2024-11
+        end_date: 2024-12
+
+      - company: Japan Society for the Promotion of Science (JSPS)
+        position: Research Fellow (DC1)
+        location: Sapporo, Japan
+        start_date: 2023-04
+        end_date: 2025-09
+
+    Awards:
+      - title: Dean's Award, Graduate School of Information Science and Technology, Hokkaido University
+        date: 2025-09
+        awarder: Hokkaido University
+
+      - title: JSAI Annual Conference Award (全国大会優秀賞)
+        date: 2025-07
+        awarder: The Japanese Society for Artificial Intelligence
+
+      - title: AI & Data Science Paper Award (AI・データサイエンス論文賞)
+        date: 2023-12
+        awarder: Japan Society of Civil Engineers
+
+      - title: Dean's Award, Graduate School of Information Science and Technology, Hokkaido University
+        date: 2023-03
+        awarder: Hokkaido University
+
+      - title: Student Encouragement Award (学生奨励賞)
+        date: 2023-03
+        awarder: IEICE Hokkaido Section
+
+      - title: Excellent Research Presentation Award (優秀研究発表賞)
+        date: 2022-12
+        awarder: The Institute of Image Information and Television Engineers (ITE)
+
+      - title: Best Paper Award
+        date: 2022-01
+        awarder: International Workshop on Advanced Image Technology (IWAIT)
+
+      - title: Young Researcher Excellent Paper Presentation Award (若手優秀論文発表賞)
+        date: 2021-11
+        awarder: Joint Conference of Hokkaido Chapters of Electrical and Information Institutes
+
+      - title: Best Student Presentation Award
+        date: 2021-10
+        awarder: The Hokkaido Young Professionals Workshop
+
+    Grants & Fellowships:
+      - title: Sky Oura ICT Scholarship Foundation
+        date: 2024-04
+        awarder: Sky Oura ICT Scholarship Foundation
+        summary: April 2024 – September 2025.
+
+      - title: JSPS Research Fellowship for Young Scientists (DC1)
+        date: 2023-04
+        awarder: Japan Society for the Promotion of Science
+        summary: April 2023 – September 2025.
+
+      - title: NEC C&C Foundation Research Grant
+        date: 2023-04
+        awarder: NEC C&C Foundation
+        summary: April 2023 – March 2024.
+
+      - title: Nitori International Scholarship Foundation — Hokkaido University Mirai IT Scholarship
+        date: 2022-04
+        awarder: Nitori International Scholarship Foundation
+        summary: April 2022 – March 2023.
+
+      - title: Japan Securities Scholarship Foundation
+        date: 2021-04
+        awarder: Japan Securities Scholarship Foundation
+        summary: April 2021 – March 2022.
+
+      - title: JASSO Type 1 Scholarship — full repayment exemption for outstanding achievement
+        awarder: Japan Student Services Organization (JASSO)
+        summary: Full exemption from repayment granted for especially outstanding academic achievement.
+
+    Talks:
+      - title: "LLM is knowledge graph reasoner: LLM's intuition-aware knowledge graph reasoning for cold-start sequential recommendation (ECIR 2025)"
+        authors:
+          - Keigo Sakurai
+        publisher: ACM SIGIR Tokyo Chapter IR Reading, Invited Session (Online)
+        releaseDate: 2025-05-24
+
+      - title: Listener recommendation for artists and effective method with high explainability
+        authors:
+          - Keigo Sakurai
+        publisher: 1st Hokkaido Young Professionals Workshop, Muroran Institute of Technology
+        releaseDate: 2021-10-14
+        summary: Received the Best Student Presentation Award.
+
+    Teaching:
+      - company: Hokkaido University
+        position: TA/TF — Media Network Experiment IA, IIA (Faculty of Engineering)
+        location: Sapporo, Japan
+        start_date: 2021
+        end_date: 2025
+
+      - company: Hokkaido University
+        position: TA/TF — Media Network Seminar II (Faculty of Engineering)
+        location: Sapporo, Japan
+        start_date: 2021
+        end_date: 2025
+
+      - company: Hokkaido University
+        position: TA — "Does a Robot Have Emotions?" (General Education)
+        location: Sapporo, Japan
+        start_date: 2022
+        end_date: 2022
+
+    Academic Services:
+      - name: Journal Reviewer
+        icon: fa-solid fa-book
+        keywords: "IPSJ Transactions on Databases (IPSJ-TOD), Transactions of the JSAI, ITE Transactions on Media Technology and Applications"
+
+      - name: Conference Reviewer (International)
+        icon: fa-solid fa-globe
+        keywords: "ACM KDD 2027, ACM SIGIR 2026, ACM SIGIR-AP 2026, ACM CIKM 2026, ACM ICMR 2026, ACM MM 2025, ISMIR 2025–2026, IEEE CIFEr 2026, IEEE GCCE 2024–2026"
+
+      - name: Conference Reviewer (Domestic)
+        icon: fa-solid fa-flag
+        keywords: "MIRU 2024–2026"
+
+    Media Coverage:
+      - title: 土木におけるAI活用の現状と将来
+        publisher: けんせつPlaza
+        releaseDate: 2024-07-17
+
+      - title: 「ChatGPT」など大規模言語モデルの仕組みと土木領域での可能性
+        publisher: BUILT – ITmedia
+        releaseDate: 2023-06-20
+
+      - title: 知識グラフと強化学習を組み合わせた説明可能な新しいアーティスト推薦システム
+        publisher: AI-SCHOLAR
+        releaseDate: 2022-08-18
+
+    Writing:
+      - title: ECIR2025 参加報告
+        publisher: 日本データベース学会 Newsletter (Vol.18, No.3)
+        releaseDate: 2025-06-02
+
+    Memberships:
+      - name: Academic Societies
+        icon: fa-solid fa-users
+        keywords: "ACM, IEEE, The Japanese Society for Artificial Intelligence (JSAI), Information Processing Society of Japan (IPSJ)"
+
+    Certificates:
+      - name: First-Class Land Mobile Radio Operator (第一級陸上特殊無線技士)
+        icon: fa-solid fa-tower-cell
+
+      - name: Third-Class Maritime Mobile Radio Operator (第三級海上特殊無線技士)
+        icon: fa-solid fa-ship
+
+      - name: Kendo 2nd Dan (剣道二段)
+        icon: fa-solid fa-medal
+
+      - name: Tantojutsu Self-Defense 1st Dan (短刀術護身道初段)
+        icon: fa-solid fa-medal
+
+      - name: Ordinary Automobile Driver's License (普通自動車第一種運転免許)
+        icon: fa-solid fa-car
