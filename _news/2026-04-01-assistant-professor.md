@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I started as an Assistant Professor at the Graduate School of Information Science and Technology, Hokkaido University! :sparkles:
+I started as an Assistant Professor at the Faculty of Information Science and Technology, Hokkaido University! :sparkles:

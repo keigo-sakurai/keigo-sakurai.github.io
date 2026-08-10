@@ -1,10 +1,10 @@
 cv:
   name: Keigo Sakurai
   label: Assistant Professor
-  email: sakurai@lmd.ist.hokudai.ac.jp
+  email: sakurai [at] lmd.ist.hokudai.ac.jp
   location: Sapporo, Japan
   image: ""
-  summary: Assistant Professor at the Graduate School of Information Science and Technology, Hokkaido University. Research on data mining centered on recommender systems across music, finance, and fashion domains.
+  summary: Assistant Professor at the Faculty of Information Science and Technology, Hokkaido University. Research on data mining centered on recommender systems across music, finance, and fashion domains.
 
   social_networks:
     - network: GitHub
@@ -18,7 +18,7 @@ cv:
     Education:
       - institution: Hokkaido University
         location: Sapporo, Japan
-        area: Information Science (Laboratory of Media Dynamics)
+        area: Information Science (Laboratory of Media Dynamics, supervised by Prof. Miki Haseyama and Prof. Takahiro Ogawa)
         studyType: Ph.D. (shortened completion)
         start_date: 2023-04
         end_date: 2025-09
@@ -28,7 +28,7 @@ cv:
 
       - institution: Hokkaido University
         location: Sapporo, Japan
-        area: Information Science (Laboratory of Media Dynamics)
+        area: Information Science (Laboratory of Media Dynamics, supervised by Prof. Miki Haseyama and Prof. Takahiro Ogawa)
         studyType: M.S.
         start_date: 2021-04
         end_date: 2023-03
@@ -37,40 +37,53 @@ cv:
 
       - institution: Hokkaido University
         location: Sapporo, Japan
-        area: Faculty of Engineering
+        area: Electronics and Information Engineering, School of Engineering
         studyType: B.E.
         start_date: 2017-04
         end_date: 2021-03
 
+      - institution: Niigata Prefectural Kokusai Joho High School
+        location: Minami-Uonuma, Japan
+        area: Information and Science Course
+        studyType: High School Diploma
+        start_date: 2014-04
+        end_date: 2017-03
+
     Experience:
       - company: Hokkaido University
         position: Assistant Professor
+        url: https://www-lmd.ist.hokudai.ac.jp/
         location: Sapporo, Japan
         start_date: 2026-04
         end_date: present
-        summary: Graduate School of Information Science and Technology, Laboratory of Media Dynamics.
+        summary: Faculty of Information Science and Technology, Laboratory of Media Creation Methodology.
 
       - company: Hokkaido University
         position: Specially Appointed Assistant Professor
+        url: https://d-red.research.hokudai.ac.jp/
         location: Sapporo, Japan
         start_date: 2025-10
         end_date: 2026-03
-        summary: Institute for Integrated Innovation, Data-driven Research Emergent Division (D-RED).
+        summary: Institute for Integrated Innovation, Data-Driven Interdisciplinary Research Emergence Department (D-RED).
 
       - company: National Institute of Advanced Industrial Science and Technology (AIST)
         position: Technical Trainee
-        location: Japan
+        url: https://www.aist.go.jp/
+        location: Tsukuba, Japan
         start_date: 2025-02
         end_date: 2025-03
+        summary: Media Interaction Research Group.
 
-      - company: Nomura Asset Management, Advanced Technology Research Division
+      - company: Nomura Asset Management, Innovation Lab.
         position: Research Intern
+        url: https://www.nomura-am.co.jp/
         location: Tokyo, Japan
         start_date: 2024-11
         end_date: 2024-12
 
       - company: Japan Society for the Promotion of Science (JSPS)
         position: Research Fellow (DC1)
+        url: https://www.jsps.go.jp/j-pd/
         location: Sapporo, Japan
         start_date: 2023-04
         end_date: 2025-09
@@ -112,33 +125,65 @@ cv:
         date: 2021-10
         awarder: The Hokkaido Young Professionals Workshop
 
+    Supervised Students' Awards:
+      - title: "Dean's Award, School of Engineering (工学部長賞) — 神崎恵土 (K. Kozaki)"
+        date: 2026-03
+        awarder: School of Engineering, Hokkaido University
+
+      - title: "Student Presentation Award (学生プレゼンテーション賞) — 神崎恵土 (K. Kozaki)"
+        date: 2026-03
+        awarder: DEIM2026
+
+      - title: "Young Researcher Excellent Paper Presentation Award (若手優秀論文発表賞) — 神崎恵土 (K. Kozaki)"
+        date: 2025-11
+        awarder: Joint Conference of Hokkaido Chapters of Electrical and Information Institutes
+
+      - title: "Excellent Paper Award Silver Prize — 神崎恵土 (K. Kozaki)"
+        date: 2025-09
+        awarder: IEEE GCCE 2025
+
+      - title: "Presentation Award — 朱金龍 (Jinlong Zhu)"
+        date: 2024-10
+        awarder: IEEE GCCE 2024
+
+      - title: "Best Paper Award 1st Place — 朱金龍 (Jinlong Zhu)"
+        date: 2024-07
+        awarder: IEEE ICCE-TW 2024
+
     Grants & Fellowships:
       - title: Sky Oura ICT Scholarship Foundation
+        url: https://www.sky-foundation.or.jp/
         date: 2024-04
         awarder: Sky Oura ICT Scholarship Foundation
         summary: April 2024 – September 2025.
 
       - title: JSPS Research Fellowship for Young Scientists (DC1)
+        url: https://www.jsps.go.jp/j-pd/
         date: 2023-04
         awarder: Japan Society for the Promotion of Science
         summary: April 2023 – September 2025.
 
       - title: NEC C&C Foundation Research Grant
+        url: https://www.candc.or.jp/
         date: 2023-04
         awarder: NEC C&C Foundation
         summary: April 2023 – March 2024.
 
       - title: Nitori International Scholarship Foundation — Hokkaido University Mirai IT Scholarship
+        url: https://www.mdsc.hokudai.ac.jp/wordpress/wp-content/uploads/2020/01/70bfb9c96526f52fa53a6f50a1df9361.pdf
         date: 2022-04
         awarder: Nitori International Scholarship Foundation
         summary: April 2022 – March 2023.
 
       - title: Japan Securities Scholarship Foundation
+        url: https://www.jssf.or.jp/
         date: 2021-04
         awarder: Japan Securities Scholarship Foundation
         summary: April 2021 – March 2022.
 
       - title: JASSO Type 1 Scholarship — full repayment exemption for outstanding achievement
+        date: 2023-07
+        url: https://www.jasso.go.jp/shogakukin/saiyochu/gyosekimenjo/index.html
         awarder: Japan Student Services Organization (JASSO)
         summary: Full exemption from repayment granted for especially outstanding academic achievement.
 
@@ -147,6 +192,7 @@ cv:
         authors:
           - Keigo Sakurai
         publisher: ACM SIGIR Tokyo Chapter IR Reading, Invited Session (Online)
+        url: https://sigirtokyo.github.io/post/2025-05-24-irreading_2025spring/
         releaseDate: 2025-05-24
 
       - title: Listener recommendation for artists and effective method with high explainability
@@ -176,13 +222,13 @@ cv:
         end_date: 2022
 
     Academic Services:
-      - name: Journal Reviewer
-        icon: fa-solid fa-book
-        keywords: "IPSJ Transactions on Databases (IPSJ-TOD), Transactions of the JSAI, ITE Transactions on Media Technology and Applications"
-
       - name: Conference Reviewer (International)
         icon: fa-solid fa-globe
         keywords: "ACM KDD 2027, ACM SIGIR 2026, ACM SIGIR-AP 2026, ACM CIKM 2026, ACM ICMR 2026, ACM MM 2025, ISMIR 2025–2026, IEEE CIFEr 2026, IEEE GCCE 2024–2026"
+
+      - name: Journal Reviewer
+        icon: fa-solid fa-book
+        keywords: "IPSJ Transactions on Databases (IPSJ-TOD), Transactions of the JSAI, ITE Transactions on Media Technology and Applications"
 
       - name: Conference Reviewer (Domestic)
         icon: fa-solid fa-flag
@@ -190,19 +236,23 @@ cv:
 
     Media Coverage:
       - title: 土木におけるAI活用の現状と将来
+        url: https://www.kensetsu-plaza.com/kiji/post/49199
         publisher: けんせつPlaza
         releaseDate: 2024-07-17
 
       - title: 「ChatGPT」など大規模言語モデルの仕組みと土木領域での可能性
+        url: https://built.itmedia.co.jp/bt/articles/2306/20/news030.html
         publisher: BUILT – ITmedia
         releaseDate: 2023-06-20
 
       - title: 知識グラフと強化学習を組み合わせた説明可能な新しいアーティスト推薦システム
+        url: https://ai-scholar.tech/articles/recommendation/artist_recommendation
         publisher: AI-SCHOLAR
         releaseDate: 2022-08-18
 
     Writing:
       - title: ECIR2025 参加報告
+        url: https://dbsj.org/newsletter-vol-18-no-3/
         publisher: 日本データベース学会 Newsletter (Vol.18, No.3)
         releaseDate: 2025-06-02
 
@@ -221,7 +271,7 @@ cv:
       - name: Kendo 2nd Dan (剣道二段)
         icon: fa-solid fa-medal
 
-      - name: Tantojutsu Self-Defense 1st Dan (短刀術護身道初段)
+      - name: Kodachi Goshindo 1st Dan (小太刀護身道初段)
         icon: fa-solid fa-medal
 
       - name: Ordinary Automobile Driver's License (普通自動車第一種運転免許)

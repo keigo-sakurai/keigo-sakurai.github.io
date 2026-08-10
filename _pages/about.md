@@ -1,16 +1,17 @@
 ---
 layout: about
+display_name: Keigo Sakurai, Ph.D.
 title: about
 permalink: /
 subtitle: >
-  Assistant Professor, <a href='https://www.ist.hokudai.ac.jp/'>Graduate School of Information Science and Technology, Hokkaido University</a>
+  Assistant Professor, <a href='https://www.ist.hokudai.ac.jp/'>Faculty of Information Science and Technology</a> / <a href='https://d-red.research.hokudai.ac.jp/'>D-RED</a>, Hokkaido University</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: KS.jpg
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Laboratory of Media Dynamics</p>
+    <p>Laboratory of Media Creation Methodology</p>
     <p>Hokkaido University</p>
     <p>Sapporo, Japan</p>
     <p>sakurai [at] lmd.ist.hokudai.ac.jp</p>
@@ -29,10 +30,11 @@ latest_posts:
   limit: 3
 ---
 
-I am an Assistant Professor at the [Graduate School of Information Science and Technology, Hokkaido University](https://www.ist.hokudai.ac.jp/), working with the [Laboratory of Media Dynamics (LMD)](https://www-lmd.ist.hokudai.ac.jp/). I received my Ph.D. in Information Science from Hokkaido University in September 2025, where I was a JSPS Research Fellow (DC1).
+I am an Assistant Professor at [Hokkaido University](https://www.global.hokudai.ac.jp/), working with the [Laboratory of Media Creation Methodology](https://www-lmd.ist.hokudai.ac.jp/). I received my Ph.D. in Information Science from Hokkaido University in September 2025, where I was a JSPS Research Fellow (DC1).
 
-My research focuses on **data mining centered on recommender systems**, applied across multiple domains including **music**, **finance**, and **fashion**. I am particularly interested in knowledge graph-based recommendation, reinforcement learning, sequential recommendation, explainability, and the use of large language models for recommendation.
+My research focuses on **data mining centered on recommender systems**, applied across multiple domains including **music**, **finance**, and **fashion**. 
+Currently, I am particularly interested in **graph-based recommendation**, **sequential recommendation**, **generative retrieval and recommendation**, **explainability**, and **the use of large language models for recommendation** in various domains.
 
-My work has been published in venues such as **SIGIR**, **RecSys**, **WSDM**, **ECIR**, and **ISMIR**. I am a member of ACM, IEEE, the Japanese Society for Artificial Intelligence (JSAI), and the Information Processing Society of Japan (IPSJ).
+My work has been published in premiere venues such as **SIGIR**, **RecSys**, **WSDM**, **CIKM**, **ECIR**, and **ISMIR**. I am a member of ACM, IEEE, the Japanese Society for Artificial Intelligence (JSAI), and the Information Processing Society of Japan (IPSJ).
 
 日本語のプロフィールは[こちら](/ja/)。

@@ -1,0 +1,14 @@
+{%- comment -%}
+  Formats a CV date for display in the year badge.
+  "2021"       -> "2021"
+  "2023-04"    -> "Apr 2023"
+  "2025-05-24" -> "May 2025"
+{%- endcomment -%}
+{%- assign fd_parts = include.date | split: '-' -%}
+{%- if fd_parts.size == 1 -%}
+  {{- include.date -}}
+{%- elsif fd_parts.size == 2 -%}
+  {{- include.date | append: '-01' | date: '%b %Y' -}}
+{%- else -%}
+  {{- include.date | date: '%b %Y' -}}
+{%- endif -%}
