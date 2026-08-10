@@ -65,7 +65,8 @@ jobs:
     # available images: https://github.com/actions/runner-images#available-images
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout 🛎�E�E        uses: actions/checkout@v4
+      - name: Checkout 🛎️
+        uses: actions/checkout@v4
       - name: Setup Ruby 💎
         uses: ruby/setup-ruby@v1
         with:
@@ -82,7 +83,8 @@ jobs:
           cache: "npm"
       - name: Install JS deps 📦
         run: npm ci
-      - name: Update _config.yml ⚙︁E        uses: fjogeleit/yaml-update-action@main
+      - name: Update _config.yml ⚙️
+        uses: fjogeleit/yaml-update-action@main
         with:
           commitChange: false
           valueFile: "_config.yml"
