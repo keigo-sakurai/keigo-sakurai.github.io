@@ -188,14 +188,14 @@ cv:
         summary: Full exemption from repayment granted for especially outstanding academic achievement.
 
     Talks:
-      - title: "LLM is knowledge graph reasoner: LLM's intuition-aware knowledge graph reasoning for cold-start sequential recommendation (ECIR 2025)"
+      - title: "LLM Is Knowledge Graph Reasoner: LLM's Intuition-Aware Knowledge Graph Reasoning for Cold-Start Sequential Recommendation (ECIR 2025)"
         authors:
           - Keigo Sakurai
         publisher: ACM SIGIR Tokyo Chapter IR Reading, Invited Session (Online)
         url: https://sigirtokyo.github.io/post/2025-05-24-irreading_2025spring/
         releaseDate: 2025-05-24
 
-      - title: Listener recommendation for artists and effective method with high explainability
+      - title: Listener Recommendation for Artists and Effective Method with High Explainability
         authors:
           - Keigo Sakurai
         publisher: 1st Hokkaido Young Professionals Workshop, Muroran Institute of Technology
