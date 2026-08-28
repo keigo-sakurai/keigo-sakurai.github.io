@@ -37,4 +37,4 @@ Currently, I am particularly interested in **graph-based recommendation**, **seq
 
 My work has been published in premiere venues such as **SIGIR**, **RecSys**, **WSDM**, **CIKM**, **ECIR**, and **ISMIR**. I am a member of ACM, IEEE, the Japanese Society for Artificial Intelligence (JSAI), and the Information Processing Society of Japan (IPSJ).
 
-日本語のプロフィールは[こちら](/ja/)。
+櫻井 慶悟(さくらい けいご)の日本語プロフィールは[こちら](/ja/)。

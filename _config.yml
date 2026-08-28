@@ -6,12 +6,12 @@ title: Keigo Sakurai # the website title (if blank, full name will be used inste
 first_name: Keigo
 last_name: Sakurai
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Keigo Sakurai — Assistant Professor at Hokkaido University. Recommender systems and data mining across music, finance, and fashion domains.
+  Keigo Sakurai (櫻井慶悟) — Assistant Professor at Hokkaido University. Recommender systems and data mining across music, finance, and fashion domains. 北海道大学 大学院情報科学研究院 助教 櫻井慶悟(さくらい けいご)の個人サイト。
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: Keigo Sakurai, recommender systems, data mining, Hokkaido University, machine learning
+keywords: Keigo Sakurai, 櫻井慶悟, 櫻井 慶悟, さくらいけいご, 北海道大学, 助教, 推薦システム, データマイニング, recommender systems, data mining, Hokkaido University, machine learning
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🎵 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 apple_touch_icon: # image name in /assets/img/ (or a rooted path / absolute URL) used for iOS home-screen bookmarks; needs a real 180x180 PNG, since Safari ignores the emoji favicon above. Left empty, iOS falls back to a screenshot of the page.
@@ -107,8 +107,8 @@ max_width: 930px
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
 # see https://schema.org/docs/faq.html for more information
-serve_og_meta: false # Include Open Graph meta tags in the HTML head
-serve_schema_org: false # Include Schema.org in the HTML head
+serve_og_meta: true # Include Open Graph meta tags in the HTML head
+serve_schema_org: true # Include Schema.org in the HTML head
 og_image: # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
