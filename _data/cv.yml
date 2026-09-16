@@ -224,7 +224,7 @@ cv:
     Academic Services:
       - name: Conference Reviewer (International)
         icon: fa-solid fa-globe
-        keywords: "ACM KDD 2027, ACM SIGIR 2026, ACM SIGIR-AP 2026, ACM CIKM 2026, ACM ICMR 2026, ACM MM 2025, ISMIR 2025–2026, IEEE CIFEr 2026, IEEE GCCE 2024–2026"
+        keywords: "ACM KDD 2027, ACM SIGIR 2026, ACM SIGIR-AP 2026, ACM CIKM 2026, ACM ICMR 2026, ACM MM 2025, ACM MM Asia 2026, ACM ICAIF 2026, ISMIR 2025–2026, IEEE CIFEr 2026, IEEE GCCE 2024–2026"
 
       - name: Journal Reviewer
         icon: fa-solid fa-book
