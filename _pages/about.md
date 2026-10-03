@@ -35,6 +35,6 @@ I am an Assistant Professor at [Hokkaido University](https://www.global.hokudai.
 My research focuses on **data mining centered on recommender systems**, applied across multiple domains including **music**, **finance**, and **fashion**. 
 Currently, I am particularly interested in **graph-based recommendation**, **sequential recommendation**, **generative retrieval and recommendation**, **explainability**, and **the use of large language models for recommendation** in various domains.
 
-My work has been published in premiere venues such as **SIGIR**, **RecSys**, **WSDM**, **CIKM**, **ECIR**, and **ISMIR**. I am a member of ACM, IEEE, the Japanese Society for Artificial Intelligence (JSAI), and the Information Processing Society of Japan (IPSJ).
+My work has been published in premiere venues such as **SIGIR**, **RecSys**, **WSDM**, **CIKM**, **ECIR**, **ISMIR**, and **ICAIF**. I am a member of ACM, IEEE, the Japanese Society for Artificial Intelligence (JSAI), and the Information Processing Society of Japan (IPSJ).
 
 櫻井 慶悟(さくらい けいご)の日本語プロフィールは[こちら](/ja/)。
