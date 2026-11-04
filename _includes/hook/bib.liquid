@@ -1,4 +1,13 @@
-{% comment %}
-  (no-op) The category badge is now rendered in the local _layouts/bib.liquid
-  override, below the venue abbr badge in the left column.
-{% endcomment %}
+{%- comment -%}
+  Local hook, included by _layouts/bib.liquid just before the venue line is
+  assembled. Appends " (<track>, acceptance rate: <rate>)" after the venue,
+  built from the custom `track` and `acceptance_rate` fields in papers.bib.
+  Either field may be omitted.
+{%- endcomment -%}
+{%- if entry.track or entry.acceptance_rate -%}
+  {%- capture venue_note -%}
+    {%- if entry.track -%}{{ entry.track }}{%- if entry.acceptance_rate -%}, {% endif -%}{%- endif -%}
+    {%- if entry.acceptance_rate -%}acceptance rate: {{ entry.acceptance_rate }}{%- endif -%}
+  {%- endcapture -%}
+  {%- capture entrytype -%}{{ entrytype }} ({{ venue_note | strip }}){%- endcapture -%}
+{%- endif -%}

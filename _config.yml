@@ -385,6 +385,7 @@ filtered_bibtex_keywords:
     arxiv,
     award,
     award_name,
+    acceptance_rate,
     bibtex_show,
     blog,
     category,
@@ -402,6 +403,7 @@ filtered_bibtex_keywords:
     selected,
     slides,
     supp,
+    track,
     video,
     website,
   ]
